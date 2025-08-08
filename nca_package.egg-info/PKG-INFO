@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: nca-package
+Version: 0.1
+Summary: An implementation of the Network Component Analysis
+Home-page: https://github.com/your-username/nca-package
+Author: Hubert
+Author-email:
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
 # Network-Component-Analysis
 
 An implementation of the Network Component Analysis from Liao & al : http://www.pnas.org/content/100/26/15522.abstract
