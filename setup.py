@@ -7,6 +7,8 @@ setup(
     install_requires=[
         'numpy',
         'scipy',
+        'pandas',
+        'PyWavelets',
     ],
     author='Hubert',
     author_email='',

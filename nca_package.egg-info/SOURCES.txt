@@ -7,3 +7,5 @@ nca_package.egg-info/dependency_links.txt
 nca_package.egg-info/requires.txt
 nca_package.egg-info/top_level.txt
 tests/test_nca.py
+tests/test_wde.py
+wde/__init__.py
