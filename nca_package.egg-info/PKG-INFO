@@ -8,6 +8,8 @@ Author-email:
 Description-Content-Type: text/markdown
 Requires-Dist: numpy
 Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: PyWavelets
 Dynamic: author
 Dynamic: description
 Dynamic: description-content-type
